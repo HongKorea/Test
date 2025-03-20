@@ -1,1 +1,10 @@
 Oi bom dia
+
+git add .
+git log
+git status
+git commit -m "ddsd"
+
+
+git remote add origin https://github.com/HongKorea/Test.git
+git push -u origin main
